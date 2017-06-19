@@ -1,6 +1,7 @@
-# `jest` test run exception
+# jest test run exception
 
 - Tested using [`node@d3c668ce`](https://github.com/nodejs/node/commit/d3c668cead3d5baff03d795755e2ae1906408580), compared against node 8.1.2
+- Related issue: https://github.com/nodejs/node/issues/13804
 
 ## How to reproduce
 
