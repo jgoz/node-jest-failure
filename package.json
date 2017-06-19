@@ -1,0 +1,10 @@
+{
+  "name": "jest-test-failure",
+  "version": "1.0.0",
+  "description": "test for jest failure",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
